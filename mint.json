@@ -42,9 +42,9 @@
     {
       "group": "Resources",
       "pages": [
-        "essentials/reporting",
-        "essentials/settings",
-        "essentials/reusable-snippets"
+        "resources/reporting",
+        "resources/settings",
+        "resources/reusable-snippets"
       ]
     },
     {
