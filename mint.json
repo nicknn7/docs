@@ -50,23 +50,15 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Open endpoints",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
     },
-        {
-      "group": "Prices and tariffs",
-      "pages": [
-        "api-reference/prices/get",
-        "api-reference/prices/create",
-        "api-reference/prices/delete"
-      ]
-    },
      {
-        "group": "Getting Started",
+        "group": "HEMS-specific",
         "pages": [
             "api-reference/prices/delete",
             {
