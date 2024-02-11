@@ -68,7 +68,7 @@
                 "group": "Prices and tariffs",
                 "pages": ["api-reference/prices/da",
                 "api-reference/prices/tarif",
-                "api-reference/prices/id-offer"]
+                "api-reference/prices/da_limited"]
             },
             {
                 "group": "Consumption and metering",
