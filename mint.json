@@ -35,7 +35,6 @@
     {
       "group": "Get Started",
       "pages": [
-        "quickstart",
         "introduction",
         "development"
       ]
@@ -43,11 +42,8 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
+        "essentials/reporting",
         "essentials/settings",
-        "essentials/navigation",
         "essentials/reusable-snippets"
       ]
     },
