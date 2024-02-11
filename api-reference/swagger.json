@@ -7273,14 +7273,6 @@
             "type": "number",
             "format": "double"
           },
-          "workingPriceAdjustment_inCentPerKwh_gross": {
-            "type": "number",
-            "format": "double"
-          },
-          "basePriceAdjustment_inEuroPerMonth_gross": {
-            "type": "number",
-            "format": "double"
-          },
           "averageExchangeKwHPriceMonths": {
             "type": "integer",
             "format": "int32"
@@ -7293,41 +7285,12 @@
             "type": "number",
             "format": "double"
           },
-          "monthlyRabotFee": {
-            "type": "number",
-            "format": "double"
-          },
-          "thgQuote": {
-            "type": "number",
-            "format": "double"
-          },
-          "flexbonus": {
-            "type": "number",
-            "format": "double"
-          },
           "hasEstimatedValues": {
             "type": "boolean"
           },
           "totalPrice": {
             "type": "number",
             "format": "double"
-          },
-          "rabotShare_inDecimalPercentage": {
-            "type": "number",
-            "format": "double"
-          },
-          "rabotShare_inEuroPerMonth_gross": {
-            "type": "number",
-            "format": "double",
-            "nullable": true
-          },
-          "savings_inEuroPerMonth_gross": {
-            "type": "number",
-            "format": "double",
-            "nullable": true
-          },
-          "comparisonTariff": {
-            "$ref": "#/components/schemas/ApiPowerTariff"
           },
           "workingPrice_inCentPerKwh_gross": {
             "type": "number",
