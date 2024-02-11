@@ -70,7 +70,21 @@
         "pages": [
             "api-reference/prices/delete",
             {
-                "group": "Nested Reference Pages",
+                "group": "CRM and customer data",
+                "pages": ["api-reference/crm/create",
+                "api-reference/crm/get",
+                "api-reference/crm/delete"]        
+            },
+            {
+                "group": "Prices and tariffs",
+                "pages": ["api-reference/prices/delete"]
+            },
+            {
+                "group": "Consumption and metering",
+                "pages": ["api-reference/prices/delete"]
+            },
+            {
+                "group": "Steering and scheduling",
                 "pages": ["api-reference/prices/delete"]
             }
         ]
