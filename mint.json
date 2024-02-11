@@ -64,6 +64,16 @@
         "api-reference/prices/create",
         "api-reference/prices/delete"
       ]
+    },
+     {
+        "group": "Getting Started",
+        "pages": [
+            "quickstart",
+            {
+                "group": "Nested Reference Pages",
+                "pages": ["nested-reference-page"]
+            }
+        ]
     }
   ]
 }
