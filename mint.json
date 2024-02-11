@@ -56,6 +56,14 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+        {
+      "group": "Prices and tariffs",
+      "pages": [
+        "api-reference/prices/get",
+        "api-reference/prices/create",
+        "api-reference/prices/delete"
+      ]
     }
   ]
 }
