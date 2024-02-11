@@ -68,10 +68,10 @@
      {
         "group": "Getting Started",
         "pages": [
-            "quickstart",
+            "api-reference/prices/delete",
             {
                 "group": "Nested Reference Pages",
-                "pages": ["nested-reference-page"]
+                "pages": ["api-reference/prices/delete"]
             }
         ]
     }
