@@ -60,7 +60,6 @@
      {
         "group": "HEMS-specific",
         "pages": [
-            "api-reference/prices/delete",
             {
                 "group": "CRM and customer data",
                 "pages": ["api-reference/crm/create",
