@@ -66,15 +66,17 @@
             },
             {
                 "group": "Prices and tariffs",
-                "pages": ["api-reference/prices/da"]
+                "pages": ["api-reference/prices/da",
+                "api-reference/prices/tarif",
+                "api-reference/prices/id-offer"]
             },
             {
                 "group": "Consumption and metering",
-                "pages": ["api-reference/prices/delete"]
+                "pages": ["api-reference/consumption/get"]
             },
             {
                 "group": "Steering and scheduling",
-                "pages": ["api-reference/prices/delete"]
+                "pages": ["api-reference/scheduling/get"]
             }
         ]
     }
