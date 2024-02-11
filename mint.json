@@ -72,11 +72,11 @@
             },
             {
                 "group": "Consumption and metering",
-                "pages": [""]
+                "pages": ["api-reference/consumption/get"]
             },
             {
                 "group": "Steering and scheduling",
-                "pages": [""]
+                "pages": ["api-reference/scheduling/get"]
             }
         ]
     }
