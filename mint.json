@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "https://www.rabot-charge.de/wp-content/uploads//2022/04/Element-21.svg",
-    "light": "https://www.rabot-charge.de/wp-content/uploads//2022/04/Element-21.svg"
+    "dark": "https://www.rabot-charge.de/wp-content/uploads/2021/02/Element-18.svg",
+    "light": "https://www.rabot-charge.de/wp-content/uploads/2021/02/Element-18.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
